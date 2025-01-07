@@ -32,7 +32,7 @@
     "href": "content_development.html",
     "title": "Content Development",
     "section": "",
-    "text": "During my time in the Faculty of Forestry, I have been involved in course and content development for both undergraduate and graduate programs. On this page, I have collected a few content “highlights”.\n\n“Mixed Pixel” Field Exercise\nEach year, the Master’s of Geomatics for Environmental Management (MGEM) program from UBC Forestry visits the Malcolm Knapp Research Forest for an orientation retreat. During this retreat, students are introduced to core remote sensing concepts like the electromagnetic spectrum, spectral indices, and various satellite remote sensing platforms. As part of this orientation, students visit several ‘field sites’, where they observe what different spatial resolution pixels look like in real life. Through this exercise, students become familiar with the concept of ‘mixed pixel problems’. The interactive map I developed is used by the students as they perform this exercise. Spatial resolutions of PlanetScope, Sentinel-2 and Landsat can be observed, and students are able to view ‘True Color’ and NDVI visualizations using the panel slider. To help navigate, the students also have the ability to toggle on their live GPS location, using their mobile devices."
+    "text": "During my time in the Faculty of Forestry, I have been involved in course and content development for both undergraduate and graduate programs. On this page, I have collected a few content “highlights”."
   },
   {
     "objectID": "content_development.html#google-earth-engine",
@@ -40,5 +40,19 @@
     "title": "Content Development",
     "section": "Google Earth Engine",
     "text": "Google Earth Engine\nDeveloped for CONS 327 at the University of British Columbia, this interactive Google Earth Engine page allows users to query a Landsat scene anywhere in the world, and visualize Urban Heat ‘Hotspots’."
+  },
+  {
+    "objectID": "content_development.html#a-title",
+    "href": "content_development.html#a-title",
+    "title": "Content Development",
+    "section": "A title",
+    "text": "A title"
+  },
+  {
+    "objectID": "content_development.html#interactive-urban-heat-island-tool",
+    "href": "content_development.html#interactive-urban-heat-island-tool",
+    "title": "Content Development",
+    "section": "Interactive Urban Heat Island Tool",
+    "text": "Interactive Urban Heat Island Tool\nSeveral of UBC Forestry’s undergraduate courses introduce students to remote sensing platforms and applications. For introductory courses, ready-made tools are a great way to engage students without requiring prerequisite coding/programming knowledge. To this end, I developed an app in Google Earth Engine, providing an interactive interface that students can use to explore surface temperatures observed by the thermal infrared sensors onboard Landsat 9. To use the tool, navigate to any location in the world using the search bar, fill out your desired start/end dates and maximum cloud cover, and hit ‘apply filters’. The maximum observed surface temperature during your specified time-period is now displayed, with areas exceeding 35C highlighted in red. You can also click anywhere in your area to generate a time-series graph of surface temperature at that particular location. Finally, to observe any relationships between thermal observations and land cover, a ‘True Colour’ image can be toggled on in the ‘Layers’ tab. To view the explorer tool in full-screen, visit https://ee-melserramon.projects.earthengine.app/view/thermal-analysis-tool"
   }
 ]
