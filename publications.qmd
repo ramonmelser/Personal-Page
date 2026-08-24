@@ -4,10 +4,16 @@ title: "Publications"
 
 *Peer-reviewed publications:*
 
-**Melser, R**., Coops, N. C., Wulder, M.A., & Derksen, C. (2023). Multi-Source Remote Sensing Based Modelling of Vegetation Productivity in the Boreal: Issues & Opportunities. *Canadian Journal of Remote Sensing, 49(1).* <https://doi.org/10.1080/07038992.2023.2256895>
+**Melser, R.**, Coops, N. C., Wulder, M. A., Derksen, C., Knox, S. H., & Wang, T. (2025). Capturing constraints on boreal gross primary productivity using the remote sensing-based CAN-TG model. *Ecological Informatics, 87,* <https://doi.org/10.1016/j.ecoinf.2025.103108>
 
 **Melser, R**., Coops, N. C., & Derksen, C. (2024). Characterizing satellite-derived freeze/thaw regimes through spatial and temporal clustering for the identification of growing season constraints on vegetation productivity. *Remote Sensing of Environment, 309,* 114210. <https://doi.org/10.1016/j.rse.2024.114210>
+
+**Melser, R**., Coops, N. C., Wulder, M.A., & Derksen, C. (2023). Multi-Source Remote Sensing Based Modelling of Vegetation Productivity in the Boreal: Issues & Opportunities. *Canadian Journal of Remote Sensing, 49(1).* <https://doi.org/10.1080/07038992.2023.2256895>
 
 *Reports:*
 
 2021, M.G.E.M.: Random Forest predictive mapping project aimed towards identifying wetlands in the Chinchaga Watershed Management Basin, Fort St. John Timber Supply Area, BC.
+
+*PhD Dissertation:*
+
+**Melser, R**., (2025) Enhanced assessment of boreal vegetation productivity using integrated satellite-derived datasets and analysis approaches[.](https://dx.doi.org/10.14288/1.0449780) University of British Columbia. <https://dx.doi.org/10.14288/1.0449780>
