@@ -5,25 +5,27 @@ title: "Resume"
 ::: {style="border-radius: 0.8em; padding: 0.5px 25px; background-color: #e6e6eb"}
 # Education
 
-- PhD., Forestry, Department of Forest Resources Management, University of British Columbia, 2025
+-   PhD., Forestry, Department of Forest Resources Management, University of British Columbia, 2025
 
-- M.G.E.M., Department of Forest Resources Management, University of British Columbia, 2021
+-   M.G.E.M., Department of Forest Resources Management, University of British Columbia, 2021
 
-- B.A. Environment & Sustainability, Department of Geography, University of British Columbia, 2019
+-   B.A. Environment & Sustainability, Department of Geography, University of British Columbia, 2019
 :::
 
 # Work Experience
 
-- Postdoctoral Research Fellow, Integrated Remote Sensing Studio, University of British Columbia, 2025 - Present
+-   Postdoctoral Research Fellow, Integrated Remote Sensing Studio, University of British Columbia, 2025 - Present
 
-- Junior Geographic Information Systems Consultant, Atticus Environmental Services Ltd., 2021 (part-time).
+-   Junior Geographic Information Systems Consultant, Atticus Environmental Services Ltd., 2021 (part-time).
 
-- Teaching Assistant Positions Listed Below
+-   Teaching Assistant Positions Listed Below
 
 ::: {style="border-radius: 0.8em; padding: 0.5px 25px; background-color: #e6e6eb"}
 # Publications
 
 *Peer-reviewed publications:*
+
+**Melser, R.**, Coops, N.C., Travers-Smith, H., Wulder, M.A., Derksen, C., Knox, S.H. (2026)*.* Monitoring fine-scale gross primary productivity along the Canadian treeline through multi-source remote sensing. *Environmental Monitoring and Assessment* *198*, 1054. [https://doi.org/10.1007/s10661-026-15881-2](#0){.uri}
 
 **Melser, R.**, Coops, N. C., Wulder, M. A., Derksen, C., Knox, S. H., & Wang, T. (2025). Capturing constraints on boreal gross primary productivity using the remote sensing-based CAN-TG model. *Ecological Informatics, 87,* <https://doi.org/10.1016/j.ecoinf.2025.103108>
 

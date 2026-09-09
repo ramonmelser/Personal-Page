@@ -4,6 +4,8 @@ title: "Publications"
 
 *Peer-reviewed publications:*
 
+**Melser, R.**, Coops, N.C., Travers-Smith, H., Wulder, M.A., Derksen, C., Knox, S.H. (2026)*.* Monitoring fine-scale gross primary productivity along the Canadian treeline through multi-source remote sensing. *Environmental Monitoring and Assessment* *198*, 1054. [https://doi.org/10.1007/s10661-026-15881-2](#0){.uri}
+
 **Melser, R.**, Coops, N. C., Wulder, M. A., Derksen, C., Knox, S. H., & Wang, T. (2025). Capturing constraints on boreal gross primary productivity using the remote sensing-based CAN-TG model. *Ecological Informatics, 87,* <https://doi.org/10.1016/j.ecoinf.2025.103108>
 
 **Melser, R**., Coops, N. C., & Derksen, C. (2024). Characterizing satellite-derived freeze/thaw regimes through spatial and temporal clustering for the identification of growing season constraints on vegetation productivity. *Remote Sensing of Environment, 309,* 114210. <https://doi.org/10.1016/j.rse.2024.114210>
