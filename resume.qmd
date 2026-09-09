@@ -46,9 +46,11 @@ title: "Resume"
 
 *Conference Presentations*
 
-**Melser, R**., Coops, N. C., Wulder, M. A., & Derksen, C. (2022). Remote Sensing Based Modelling of Vegetation Productivity in the Canadian Boreal: Issues & Opportunities. Oral presentation at the European Space Agency’s Living Planet Symposium 2022, Bonn, Germany.
+**Melser, R.**, Coops, N. C., Travers-Smith, H., Wulder, M. A., Derksen, C., Knox, S. H. (2026). Toward fine-scale monitoring of Boreal carbon dynamics: a remote sensing framework for the integration of vegetation productivity, land cover, disturbance, and forest structure information. Oral Presentation at the Internationa Boreal Forest Research Association Conference 2026, Quebec City, Canada.
 
 **Melser, R**., Coops, N. C., Wulder, M. A., & Derksen, C. (2024). Constraining estimates of Boreal vegetation productivity in multi-source remote sensing-based models. Oral presentation at the ForestSAT Conference 2024, Rotorua, New Zealand.
+
+**Melser, R**., Coops, N. C., Wulder, M. A., & Derksen, C. (2022). Remote Sensing Based Modelling of Vegetation Productivity in the Canadian Boreal: Issues & Opportunities. Oral presentation at the European Space Agency’s Living Planet Symposium 2022, Bonn, Germany.
 
 ::: {style="border-radius: 0.8em; padding: 0.5px 25px; background-color: #e6e6eb"}
 # Awards & Honors
